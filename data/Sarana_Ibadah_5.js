@@ -1,0 +1,1 @@
+var json_Sarana_Ibadah_5 = {"type":"FeatureCollection","name":"Sarana_Ibadah_5","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"Id":0.0},"geometry":{"type":"Point","coordinates":[110.401013213024072,-7.316932536594985]}}]}
