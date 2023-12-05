@@ -1,0 +1,1 @@
+var json_KantorDesa_7 = {"type":"FeatureCollection","name":"KantorDesa_7","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"X":110.40128,"Y":-7.31656,"Z":"Kantor Desa Kemambang"},"geometry":{"type":"Point","coordinates":[110.401284046087,-7.31655636161663]}}]}

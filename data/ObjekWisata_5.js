@@ -1,0 +1,1 @@
+var json_ObjekWisata_5 = {"type":"FeatureCollection","name":"ObjekWisata_5","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"X":110.40547,"Y":-7.32081,"Z":"Singgahan Tanah Miring (SITARING) View"},"geometry":{"type":"Point","coordinates":[110.40547132319,-7.32081410656372]}}]}
